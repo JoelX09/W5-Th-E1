@@ -1,2 +1,2 @@
-# W5-Wed-E1
-Challenge 1 (02-09-2022)
+# W5-Th-E1
+Challenge 1 (02-10-2022)
